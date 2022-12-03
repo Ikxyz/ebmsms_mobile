@@ -1,0 +1,21 @@
+const List<String> LGA = [
+  'Akoko Edo',
+  "Egor",
+  "Esan Central",
+  "Esan North-East",
+  "Esan South-East",
+  "Esan West",
+  "Etsako Central",
+  "Etsako East",
+  "Etsako West",
+  "Igueben",
+  "Ikpoba Okha",
+  "Irrua",
+  "Oredo",
+  "Orhionmwon",
+  "Ovia North-East",
+  "Ovia South-West",
+  "Owan East",
+  "Owan West",
+  "Uhunmwonde"
+];
